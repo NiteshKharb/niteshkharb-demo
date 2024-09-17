@@ -2,4 +2,4 @@
 <br>
 My first Repository
 <br>
-Author - Nitesh Kharb
+Author - Nitesh (Kharb)
